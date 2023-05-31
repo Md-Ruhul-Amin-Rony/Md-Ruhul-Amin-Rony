@@ -14,7 +14,7 @@
 
 
 
- <details>
+ <Details>
 <p align="center">
   <a href="https://github.com/Md-Ruhul-Amin-Rony">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Ruhul-Amin-Rony&theme=transparent" />
@@ -30,7 +30,7 @@
       <img class="img" align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ruhul-Amin-Rony&theme=radical&layout=compact" />
   </a>
 </p>
-</details>
+</Details>
 
 
 
