@@ -5,9 +5,9 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
 
- ### Hi there, I'm Md Ruhul Amin👋, <h6><p> a full-stack .NET developer currently enrolled in Chas Academy. I am actively seeking an internship opportunity. If you are interested or know someone who might be, please feel free to contact me.<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></p></h6> 
+ ### Hi there, I'm Md Ruhul Amin👋, <h6><p> A full-stack .NET developer currently enrolled in Chas Academy. I am actively seeking working opportunity in tech world. If you are interested or know someone who might be, please feel free to contact me.<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture></p></h6> 
 
-![animation](https://github.com/Rezaeskandar/Rezaeskandar/assets/113901667/0045a370-f4f6-4ad1-9c59-059d9ad2ed83)
+![animation](https://user-images.githubusercontent.com/113901667/239093969-0045a370-f4f6-4ad1-9c59-059d9ad2ed83.gif)
 
 <br/><br/>
 
@@ -46,8 +46,8 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ruhul-amin-104140128/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21915926/reza) 
-   <a title="ashkan.hihon@gmail.com" href="ashkan.hihon@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21991925/md-ruhul-amin) 
+   <a title="adiar1234@yahoo.com" href="adiar1234@yahoo.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
 _______________________________________________________________________________________________________________________________________________________
   
 <div align="center">
