@@ -14,7 +14,7 @@
 
 
 
-<details>
+# <details>
 <p align="center">
   <a href="https://github.com/Md-Ruhul-Amin-Rony">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Ruhul-Amin-Rony&theme=transparent" />
