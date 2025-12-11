@@ -89,7 +89,7 @@
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Ruhul-Amin-Rony/Md-Ruhul-Amin-Rony/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Md-Ruhul-Amin-Rony/Md-Ruhul-Amin-Rony/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 ---
 
